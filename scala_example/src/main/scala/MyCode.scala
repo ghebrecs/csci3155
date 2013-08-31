@@ -26,3 +26,5 @@ object Main {
     println("The sum is: "+sum+" ("+sum2+")")
   }
 }
+
+// this is the scala code provied by prof 
