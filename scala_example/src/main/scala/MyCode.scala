@@ -24,6 +24,7 @@ object Main {
     val sum = MyCode.sumList(stringsToInts(args))
     val sum2 = MyCode.sumList2(stringsToInts(args))
     println("The sum is: "+sum+" ("+sum2+")")
+    println(sum)
   }
 }
 
